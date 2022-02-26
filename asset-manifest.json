@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dish-maker-cra/static/css/main.073c9b0a.css",
+    "main.js": "/dish-maker-cra/static/js/main.54eea2ff.js",
+    "static/js/787.31cf3759.chunk.js": "/dish-maker-cra/static/js/787.31cf3759.chunk.js",
+    "static/media/logo.svg": "/dish-maker-cra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dish-maker-cra/index.html",
+    "main.073c9b0a.css.map": "/dish-maker-cra/static/css/main.073c9b0a.css.map",
+    "main.54eea2ff.js.map": "/dish-maker-cra/static/js/main.54eea2ff.js.map",
+    "787.31cf3759.chunk.js.map": "/dish-maker-cra/static/js/787.31cf3759.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.54eea2ff.js"
+  ]
+}
